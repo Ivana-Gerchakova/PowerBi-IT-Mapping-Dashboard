@@ -2,8 +2,8 @@
 PowerBi-IT-Mapping-Dashboard
 
 ## Project Overview :
-All of this data is provided to us for use through the Brainster Data Science Academy by Data Masters.
 This project is focusing on the second mapping of the IT industry in North Macedonia. 
+All of this data is provided to us for use through the Brainster Data Science Academy by Data Masters.
 The survey was conducted from June 15th to July 11th, involving more than 2,000 local IT professionals (specifically 2,237, with 2,047 valid responses).
 
 ## Project Highlights :
