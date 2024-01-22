@@ -1,5 +1,5 @@
 # Project Title :
-PowerBi-IT-Mapping-Dashboard
+PowerBi-IT-Mapping-Dashboard.
 
 ## Project Overview :
 This project is focusing on the second mapping of the IT industry in North Macedonia. 
