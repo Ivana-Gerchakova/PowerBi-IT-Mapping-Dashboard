@@ -23,7 +23,7 @@ The survey was conducted from June 15th to July 11th, involving more than 2,000 
 - Ivana Gerchakova
 - Margareta Goseva
 - Angela Popovska
-- 
+  
 ## Dashboard Preview :
 <img src="Images/IT Dashboard-1.png">
 <img src="Images/IT Dashboard-2.png">
