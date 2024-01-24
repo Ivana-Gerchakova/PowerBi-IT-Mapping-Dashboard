@@ -19,6 +19,11 @@ The survey was conducted from June 15th to July 11th, involving more than 2,000 
 - **Survey Outreach:** The survey was distributed through various channels, including IT.mk texts,
   IT forums, organic and paid placements on social media (Facebook, Instagram, LinkedIn, and Twitter), and direct emails to relevant IT companies and associations.
   
+  ## Team Memebers
+- Ivana Gerchakova
+- Margareta Goseva
+- Angela Popovska
+- 
 ## Dashboard Preview :
 
 <img src="Images/IT Dashboard-1.png">
